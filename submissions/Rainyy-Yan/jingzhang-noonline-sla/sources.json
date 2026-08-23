@@ -115,6 +115,54 @@
       "usage": "Approved Jing-Zhang Railway Heritage Park corridor control-plan context: public-space-led renewal, a roughly 9 km heritage-park axis, planned north-south/east-west slow-mobility connections, and public-service direction.",
       "limitations": "Textual public announcement only. It does not provide cleared GIS/CAD redlines, facility coordinates, operating hours, actual water/seating/entry/crossing inventory, measured shade/exposure, or staffed-service confirmation.",
       "prohibited_use": "Official boundary geometry, existing facility inventory, field-verification substitute, statutory control extraction, construction commitment, or SLA-A promotion evidence."
+    },
+    {
+      "id": "EXT-SRC-JINGZHANG-PARK-20230630",
+      "url": "https://www.beijing.gov.cn/renwen/cshd/202306/t20230630_3150675.html",
+      "publisher": "北京市人民政府网站 / 海淀区园林绿化局、北京市规划和自然资源委员会海淀分局信息",
+      "published_date": "2023-06-30",
+      "accessed_date": "2026-08-14",
+      "source_type": "official_public",
+      "usable_for_formal": "yes_for_context",
+      "usage": "Jing-Zhang Railway Heritage Park overall approximately 9 km context, publicly reported first-phase opening and public-space/slow-mobility direction.",
+      "limitations": "The report documents a stated corridor and a specific opened phase. It does not provide full-corridor GIS, precise alignment at the three focus areas, property boundary, facility inventory or construction approval for this proposal.",
+      "prohibited_use": "Exact park boundary, existing track or heritage placement at a concept node, statutory control, construction commitment or field-verification substitute."
+    },
+    {
+      "id": "EXT-SRC-DAZHONGSI-STATION-202605",
+      "url": "https://www.bjsubway.com/station/xltcx/line13/2013-08-22/75.html?sk=1",
+      "publisher": "北京地铁官方网站",
+      "published_date": "2026-05",
+      "accessed_date": "2026-08-14",
+      "source_type": "official_public_operational_information",
+      "usable_for_formal": "yes_for_context",
+      "usage": "Dazhongsi Station Line 13 context, published A/B entrance naming and published in-station service/accessibility information.",
+      "limitations": "Operational information is time-sensitive and station-internal. It does not establish an external walking route, lawful street crossing, continuous barrier-free path, public entry, operating frontage or site-interface approval.",
+      "prohibited_use": "Direct station-to-node connection, external accessible-route conclusion, legal-crossing conclusion, construction approval or field-verification substitute."
+    },
+    {
+      "id": "EXT-SRC-QINGHUAYUAN-STATION-20260214",
+      "url": "https://wwj.beijing.gov.cn/bjww/362771/362782/743928533/743928745/index.html",
+      "publisher": "北京市文物局",
+      "published_date": "2026-02-14",
+      "accessed_date": "2026-08-14",
+      "source_type": "official_public_heritage_information",
+      "usable_for_formal": "yes_for_context",
+      "usage": "Protected former Tsinghuayuan station as verified Jing-Zhang heritage context and a reminder that protection/control requirements require specialist review.",
+      "limitations": "Textual public heritage information does not provide a cleared GIS overlay for the submission or permission for intervention.",
+      "prohibited_use": "Exact protected-asset placement at a proposal node, heritage-control GIS, alteration proposal, approval conclusion or construction instruction."
+    },
+    {
+      "id": "EXT-SRC-JINGZHANG-PLAN-PUBLIC-NOTICE-20250208",
+      "url": "https://ghzrzyw.beijing.gov.cn/chengxiangguihua/ghlgg/hd_ghlgg/202502/t20250207_4005553.html",
+      "publisher": "北京市规划和自然资源委员会海淀分局",
+      "published_date": "2025-02-08",
+      "accessed_date": "2026-08-14",
+      "source_type": "official_public_planning_notice",
+      "usable_for_formal": "yes_for_context",
+      "usage": "Public-notice context for the Jing-Zhang Railway Heritage Park corridor artificial-intelligence innovation district control-plan draft process.",
+      "limitations": "A public notice and comment-adoption record is not a cleared statutory GIS file, final redline, parcel control sheet, engineering approval or current-condition survey.",
+      "prohibited_use": "Official boundary geometry, parcel control, road redline, approval claim, facility inventory or construction commitment."
     }
   ]
 }
