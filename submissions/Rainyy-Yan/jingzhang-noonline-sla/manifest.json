@@ -14,7 +14,7 @@
     "model_family": "gpt",
     "model_detail": "GPT-5 based Codex desktop coding agent"
   },
-  "generated_at": "2026-08-23T00:00:00.000Z",
+  "generated_at": "2026-08-24T00:00:00Z",
   "files": [
     {
       "path": "manifest.json",
@@ -26,7 +26,7 @@
       "role": "narrative",
       "required": true,
       "language": "zh",
-      "sha256": "eca48931e130ede26a53253fd10be640a261b8bb8f8fe64a462934ff78b55171"
+      "sha256": "76ff0d60490b04a97028ed249febaf117e2fa1e6961fa8800a9bedbaf9449940"
     },
     {
       "path": "agent.json",
@@ -38,7 +38,7 @@
       "path": "metrics.json",
       "role": "metrics",
       "required": true,
-      "sha256": "fde6d937e98b3bdd553c2a059986913500b5f3bcb8c96798018ac056a6d27e32"
+      "sha256": "74c62d253c9a97f3c776cf143980b7d80e5a0e9b42e80746d7902a7b1d8601d1"
     },
     {
       "path": "assumptions.json",
@@ -56,7 +56,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "c880435cccb81e664e45f94bf74fc9d2781f93d59d08cd7478289551e8be2902"
+      "sha256": "9b57882d5bd96da2412e9d65a1613ea406b9df8e6a8ffab6278a0f8add520613"
     },
     {
       "path": "compliance_matrix.json",
@@ -88,7 +88,7 @@
       "role": "rendered_proposal_html",
       "required": true,
       "language": "zh",
-      "sha256": "dec7eaf5615bc0adfca4faba7215ffd26fbce5bbdd4805c8e51c6e80436e92a0"
+      "sha256": "3a346fc2e90d8bd96b329b133d9a5a956548810d1d62afc05dd796aeb722ff6f"
     },
     {
       "path": "report/narrative.md",
@@ -218,7 +218,7 @@
       "required": true,
       "language": "en",
       "translation_of": "proposal.md",
-      "sha256": "60177b4fb919e9f36fb0c5921f90f057dba66ad4d239298aa2194519e7179082"
+      "sha256": "cce97ba7f74734df06d67e7980519a1e5198357d103cef3f75a6f70ebce42931"
     },
     {
       "path": "report/proposal.en.html",
@@ -226,7 +226,7 @@
       "required": true,
       "language": "en",
       "translation_of": "report/proposal.html",
-      "sha256": "6558b50100636a66b80f230e91988e9af1fba2f09666fa08cc035383dad2225b"
+      "sha256": "505497e5ed4cc3266425c47080565e3e0dd707eddc7d8e87c4a4e22525fd95c0"
     },
     {
       "path": "drawings/a3-booklet.en.pdf",
@@ -693,7 +693,35 @@
       "path": "visual/assets/v4-review.css",
       "role": "asset",
       "required": true,
-      "sha256": "0af97bd1b379475f1edce660e2af7e6d1237cc46655fe266a76b7b079d05e9df"
+      "sha256": "6aee5d14f107ec590de98a7599b0cc1266cc6a1a3644b186ac1049b2eeb76968"
+    },
+    {
+      "path": "visual/assets/v4_2-agent_delivery_index.json",
+      "role": "evidence_data",
+      "required": false,
+      "language": "neutral",
+      "sha256": "96ad3885f9faff16dcff4eebf6e8dc214b62d1cff5d5f1c5c09293bfcfbbf389"
+    },
+    {
+      "path": "visual/assets/v4_2-brand_identity.json",
+      "role": "evidence_data",
+      "required": false,
+      "language": "neutral",
+      "sha256": "9fb021d9e84233c521fdd0304507128f87923e03f2f66ca9fcbfd546f6d3a59b"
+    },
+    {
+      "path": "visual/assets/v4_2-bilingual_equivalence_checklist.json",
+      "role": "evidence_data",
+      "required": false,
+      "language": "neutral",
+      "sha256": "5805a2cf47d5c279bae3cabc7f8eac58a7b782d71f4a25dc15c7f8b1faeb856a"
+    },
+    {
+      "path": "visual/assets/v4_2-implementation_verification_matrix.json",
+      "role": "evidence_data",
+      "required": false,
+      "language": "neutral",
+      "sha256": "b9c4397f6abf4b767dc7cf76995ea6902f0b56fca178dfd036d8cca641e4abd9"
     }
   ],
   "validation_claim": {

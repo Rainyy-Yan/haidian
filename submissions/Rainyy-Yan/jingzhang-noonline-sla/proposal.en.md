@@ -1,6 +1,7 @@
 ---
 translation_of: "proposal.md"
 language: "en"
+iteration: "v4.2"
 ---
 
 # Jing-Zhang Noonline SLA
@@ -9,7 +10,7 @@ language: "en"
 
 ![Overall urban structure showing the three zones, two wings, Level 1/2 and the evidence boundary of the Jing-Zhang public connection](assets/figures/v4-figure-01-overall-urban-structure.en.png)
 
-![Overall scope and evidence boundary: public taskbook scale, three-zones-two-wings relationship and provisional design expression](assets/figures/site-overview.en.png)
+![Evidence Boundary Map (separate from the overall-structure plate): public taskbook scale, three-zones-two-wings relationship and provisional design expression](assets/figures/site-overview.en.png)
 
 ## 1. The Problem
 
@@ -206,5 +207,73 @@ The metric system separates design targets, concept-geometry-derived values and 
 The central risk is not an incomplete image. It is mistaking a provisional boundary, concept node, public in-station information or algorithm output for an existing, approved or buildable fact. The Site Evidence Ladder therefore separates publicly supported context, design inference, field verification and professional study; solid, dashed, verification and study marks express that distinction visibly. The implementation-control register turns that boundary into seven stoppable risks: public interface; clearway and accessibility; heat/rest/water; maintenance and human fallback; test safety and privacy; AI exclusion; and treating provisional geometry as approval control. All drawings, PDFs, HTML and offline interaction use only local package files plus public or cleared material. They load no remote map, font, API, personal data or uncleared asset. Traffic safety, heritage, rights, engineering, permits and public responsibility remain decisions for the appropriate professional and governing bodies [source:SOURCE-REGISTRY] [data:risk.json#risks] [assumption:A-SITE-EVIDENCE-LADDER-001].
 
 ## References
+
+This package does not dress a concept line up as a real project. The public taskbook and source registry support only the coordinated scale, the three-zones-two-wings relationship and the Jing-Zhang cultural context; provisional boundaries and concept spatial layers support design expression and recalculation only. Site routes, external crossings, accessibility, canopy, service hours, property, permits, funding and named implementation bodies must still be obtained independently. Therefore every `Verified` state may be recorded only by an authorised human verifier with an auditable record, and AI may not automatically promote `unknown`. Precedents extract public-interface principles only; they do not prove regional cooperation or replicable delivery conditions. The brand graphic is likewise participant-authored concept work, and any future installation still requires rights, material and approval confirmation. This boundary allows the proposal to discuss space, governance and testing together without exceeding the capability of public material [source:SOURCE-REGISTRY] [assumption:A-PROVISIONAL-BOUNDARY-001] [metric:field_verification_unknown_task_count].
+
+## 13. V4.2 Taskbook Deliveries: Open, Not Overclaimed
+
+### 13.1 Global precedents and regional exchange interfaces
+
+The following is not a list of confirmed partners and does not copy projects into Haidian. It separates transferable public interfaces from local conditions that must still be verified. The evidence level, limitation and translation for CASE-01–06 are in `visual/assets/v4_2-agent_delivery_index.json#precedents`; every regional relationship is a **conceptual exchange interface / pending formal coordination**.
+
+| ID | Precedent or reference | Transferable public interface | Limited local translation |
+|---|---|---|---|
+| CASE-01 | Barcelona Superblock public realm | Secure walking and staying before adding service | A clearway-first principle only, not a traffic-control conclusion |
+| CASE-02 | Singapore Punggol Digital District | Proximity of research, learning and everyday public interface | A research-public-interface reference, not land, finance or park cooperation |
+| CASE-03 | Tokyo Shibuya accessible wayfinding practice | Fixed, multilingual, low-cognitive-load orientation | Dazhongsi external legal crossing and continuous accessibility remain to be verified |
+| CASE-04 | Toronto Sidewalk Labs public-governance debate | Publish data use, purpose and exit route | No governance conclusion is adopted; only public explanation and human appeal |
+| CASE-05 | Helsinki open urban testbed | Open scenarios require responsibility, exit and review | Local testing starts only after permission, data and safety verification |
+| CASE-06 | Public Jing-Zhang Railway Heritage Park context | Cultural narrative of connection, maintenance and public responsibility | No invented relic or intervention location in the three focal areas |
+
+**Regional synergy framework (RS-01–05):** Beiwai Community is a daily-public-question and feedback interface; Future Science City is a research-question and explainable-test interface; Huairou Science City is a science-communication and talent-dialogue interface; Beijing E-Town is a manufacturing/deployment-learning and safety-review interface; Jing-Jin-Ji is an annual-theme and cross-city-learning interface. Each may exchange only five non-sensitive public outputs: `knowledge` methods, `test` de-identified protocols, `talent` public talks/mentor time, `event` public themes, and `governance` stop/appeal templates. Data, finance, property, facility access and personnel commitments remain unknown until a named body and lawful document confirm them [assumption:A-CONTROLS-001].
+
+### 13.2 Ecology-industry relationship and component library
+
+Ecology is not a backdrop to industry. EIM-01 canopy/shade–noon heat–staying; EIM-02 rainwater/drainage–accessibility–wet-weather detour; EIM-03 public clearway–test buffer–research observation; and EIM-04 knowledge room–public question–governance feedback form the ecology-industry relationship. They are conceptual links to green-space, public-space, road and verification-ledger layers; they do not prove existing canopy, drainage capacity or engineering feasibility.
+
+The CL-01–06 component library is reversible concept hardware, not a procurement list: CL-01 fixed bilingual wayfinding; CL-02 low-height evidence plaque; CL-03 phone-independent rest/water reservation; CL-04 test buffer and stop sign; CL-05 human-fallback handover point; CL-06 rain/heat detour information. Every component must preserve the clearway, be readable AI-OFF, be maintainable and be removable. Dimensions, materials, fire, accessibility, property and approvals remain for specialist and field verification.
+
+### 13.3 Complete SC-01–10 scenario cards
+
+Every card is a concept scenario rather than an open service. Its unique ID, node, evidence level and Chinese equivalent are indexed in `visual/assets/v4_2-agent_delivery_index.json#scenario_cards`.
+
+| ID | Scenario and space | Optional AI layer | Human / AI-OFF fallback | Industry-test boundary |
+|---|---|---|---|---|
+| SC-01 | N01 before a Zhongzhiyuan test starts | crowd forecast | F01 fixed stop sign and human explanation | IV-01, permitted window only |
+| SC-02 | N02 noon shade and stay | heat notice | fixed shade/rest instruction | no data collection, no activation |
+| SC-03 | N03 public-entry enquiry | bilingual Q&A | fixed map and human handover | IV-02 entry-access verification |
+| SC-04 | N04 crossing decision | risk notice | physical direction and reroute | HOLD when unverified |
+| SC-05 | N05 civic question | optional explanation | F02 human enquiry | IV-03 explanation/appeal record |
+| SC-06 | N06 Jing-Zhang interpretation | low-sensitivity interactive narrative | fixed cultural wayfinding | no invented relic or facial recognition |
+| SC-07 | N07 night/rain/heat detour | optional dynamic notice | static night/wet-weather board | DOWNGRADE without lighting/maintenance evidence |
+| SC-08 | N08 public-entry event day | optional queue notice | human routing and physical queue line | permitted event window only |
+| SC-09 | N09 short stay after arrival | arrival information | F04 human help | no continuous-service claim without verified external interface |
+| SC-10 | N10–N12 crossing to daily frontage | optional path prompt | fixed reroute/suspend sign | IV-02; SUSPEND if legality or accessibility is unknown |
+
+The industry-validation scenarios are restricted subsets of SC-01/03/05: IV-01 public clearway non-occupation, IV-02 entry/crossing/accessibility evidence integrity, and IV-03 human appeal and AI switch-off. They collect no personal identity and never auto-promote a test result into deployed service.
+
+### 13.4 P-01–05 personas and inclusive responses
+
+| ID | Need and barrier | Spatial response | Human fallback | AI-OFF response |
+|---|---|---|---|---|
+| P-01 older pedestrian | heat, rest and complex turns | stay reservations and low-height large-type fixed signs | F02/F04 direction and rest help | segment-by-segment physical information |
+| P-02 disabled person | uncertain ramps, lifts and continuous access | mark unverified points as reroute, never call a concept line accessible | authorised person verifies an alternative | physical direction and human explanation; stop the promise if unknown |
+| P-03 child caregiver | crossing, short stay and queue safety | separate clearway and test buffer with visible stay edge | human routing and help point | fixed graphics and stop signs, not algorithm commands |
+| P-04 non-Chinese speaker | language, symbols and asking for help | Chinese-English text, pictograms and destination symbols | F02/F04 basic human direction | numbered arrows and non-colour-only symbols without screens |
+| P-05 night/extreme-weather user | sun, standing water, unknown lighting/hours | rain-heat detour and physical unavailable-service notice | activate human point only in declared service window | static detour remains; HOLD/DOWNGRADE without verification |
+
+### 13.5 H-01–04 landmarks/honour displays and Noonline SLA identity
+
+H-01 Connection Gauge at N01 explains the public clearway; H-02 Evidence Desk at N05 explains Target/Verified; H-03 Maintenance Archive at N06 narrates Jing-Zhang maintenance responsibility; H-04 First Arrival Minute at N11 explains the right to pause and reroute. These are **conceptual interpretation or honour-display nodes**, not existing heritage, official awards or confirmed property locations.
+
+The Noonline SLA logo is “a public line that does not break when the screen disconnects”: two parallel clearway strokes join at a legible human-handover point; the open interval means AI can exit while public right of way remains. LOGO-01 is the horizontal mark and LOGO-02 the narrow-screen/node symbol. Minimum size is 18 mm in print and 64 px on screen; clear space is 0.5 mark-height. It must not be stretched, rotated, recast as an official emblem, cover a provisional warning, communicate safety by colour alone, or sit beside unlicensed railway/government/corporate marks. Hierarchy: Level 1 Jing-Zhang cultural wayfinding (place/direction, not this project brand); Level 2 Noonline SLA (service rule); Level 3 Evidence Legend (Target/Verified/unknown); Level 4 event sub-brands (EVENT-01–03). The mark is participant-authored geometric linework with no third-party trademark, photograph or restricted asset; rights and generation source are recorded in `visual/assets/v4_2-brand_identity.json`.
+
+### 13.6 Annual events, developer community and long-term conversion
+
+EVENT-01 Noon Stress-Test Week rehearses AI-OFF only in permitted public windows; EVENT-02 Evidence Open Day explains Target/Verified and the appeal path with a human host; EVENT-03 Jing-Zhang Maintenance Dialogue publishes public maintenance questions. DEV-01 developer community follows: question registration → minimal test protocol → human/public review → stop or review → publishable method. It may not upload personal data, bypass approval or turn a demonstration into routine operation. CONV-01 is a conceptual conversion funnel: public issue → compliant pilot application → independent review → named-body/finance/property/O&M documents → sustainable operation. Missing next-stage evidence means HOLD; AI cannot advance it.
+
+### 13.7 Implementation evidence and bilingual audit
+
+`visual/assets/v4_2-implementation_verification_matrix.json` connects WP-01–06, all 45 FV tasks and the 18 mandatory SLA-A items to PHASE, ROLE, format, validity, threshold, stop authority and HOLD/DOWNGRADE response. Every task remains `unknown` at baseline; only an authorised human verifier with auditable evidence may change it, and AI cannot write promotion. `visual/assets/v4_2-bilingual_equivalence_checklist.json` compares every number, metric, ID, evidence level, Target/Verified state, warning, figure and taskbook output with the same locatable section in both languages.
 
 Primary public material includes the Haidian planning authority’s call and taskbook scale statement; the Beijing Municipal Government’s public information on the Jing-Zhang Railway Heritage Park first phase and c. 9 km corridor; Beijing Subway’s public page for Dazhongsi Station A/B exits and in-station accessibility service; the Beijing Cultural Heritage Bureau’s protection information for the former Tsinghuayuan station; and the repository’s registered standards, data and source registry. Each citation is governed by the source ID, date, allowed use and limitation recorded in `sources.json`. Public material supports only the context it expressly states; it never replaces official GIS, field survey, facility audit, permission or approval [source:EXT-SRC-JINGZHANG-PARK-20230630] [source:EXT-SRC-DAZHONGSI-STATION-202605] [source:EXT-SRC-QINGHUAYUAN-STATION-20260214].

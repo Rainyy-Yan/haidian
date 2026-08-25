@@ -17,7 +17,8 @@
 }
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
-body { margin: 0; color: var(--ink); background: var(--paper); font-family: Arial, "Microsoft YaHei", sans-serif; line-height: 1.55; }
+/* System CJK stacks only: no font file is embedded or redistributed. */
+body { margin: 0; color: var(--ink); background: var(--paper); font-family: "Noto Sans CJK SC", "Source Han Sans SC", "Microsoft YaHei", "PingFang SC", Arial, sans-serif; line-height: 1.55; }
 a { color: inherit; }
 .skip { position: absolute; left: -999px; top: 0; background: var(--white); padding: 10px; z-index: 20; }
 .skip:focus { left: 12px; }

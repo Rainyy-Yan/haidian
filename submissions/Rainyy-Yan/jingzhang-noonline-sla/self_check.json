@@ -114,13 +114,17 @@
         "submissions/Rainyy-Yan/jingzhang-noonline-sla/visual/assets/noonline-sla-test-results.json",
         "submissions/Rainyy-Yan/jingzhang-noonline-sla/visual/assets/sla-engine-diagram.svg",
         "submissions/Rainyy-Yan/jingzhang-noonline-sla/visual/assets/v4-review.css",
+        "submissions/Rainyy-Yan/jingzhang-noonline-sla/visual/assets/v4_2-agent_delivery_index.json",
+        "submissions/Rainyy-Yan/jingzhang-noonline-sla/visual/assets/v4_2-bilingual_equivalence_checklist.json",
+        "submissions/Rainyy-Yan/jingzhang-noonline-sla/visual/assets/v4_2-brand_identity.json",
+        "submissions/Rainyy-Yan/jingzhang-noonline-sla/visual/assets/v4_2-implementation_verification_matrix.json",
         "submissions/Rainyy-Yan/jingzhang-noonline-sla/visual/index.en.html",
         "submissions/Rainyy-Yan/jingzhang-noonline-sla/visual/index.html"
       ],
       "ai_package_stages": {
         "submissions/Rainyy-Yan/jingzhang-noonline-sla": "formal"
       },
-      "total_bytes": 8285610,
+      "total_bytes": 8348426,
       "maintainer_bypass": false
     },
     "stderr": ""
@@ -202,7 +206,7 @@
           "standard": 2,
           "depth": 3,
           "data": 14,
-          "metric": 10
+          "metric": 11
         }
       }
     },

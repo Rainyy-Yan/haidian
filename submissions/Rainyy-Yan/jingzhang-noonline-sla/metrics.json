@@ -197,9 +197,11 @@
       "value": 10,
       "unit": "count",
       "source_files": [
-        "proposal.md"
+        "proposal.md",
+        "proposal.en.md",
+        "visual/assets/v4_2-agent_delivery_index.json"
       ],
-      "formula": "count(AI+ scenario cards in proposal narrative)",
+      "formula": "count(SC-01..SC-10 in proposal.md#13.3, proposal.en.md#13.3 and visual/assets/v4_2-agent_delivery_index.json#scenario_cards)",
       "confidence": "high",
       "assumptions": []
     },
@@ -208,9 +210,11 @@
       "value": 3,
       "unit": "count",
       "source_files": [
-        "proposal.md"
+        "proposal.md",
+        "proposal.en.md",
+        "visual/assets/v4_2-agent_delivery_index.json"
       ],
-      "formula": "count(industry validation scenarios)",
+      "formula": "count(IV-01..IV-03 explicitly bounded in proposal.md#13.3 and proposal.en.md#13.3)",
       "confidence": "high",
       "assumptions": []
     },
@@ -219,9 +223,11 @@
       "value": 5,
       "unit": "count",
       "source_files": [
-        "proposal.md"
+        "proposal.md",
+        "proposal.en.md",
+        "visual/assets/v4_2-agent_delivery_index.json"
       ],
-      "formula": "count(user personas)",
+      "formula": "count(P-01..P-05 in proposal.md#13.4 and proposal.en.md#13.4)",
       "confidence": "high",
       "assumptions": [
         "A-CENSUS-SCOPE-001"
@@ -233,9 +239,11 @@
       "unit": "count",
       "source_files": [
         "proposal.md",
-        "visual/index.html"
+        "proposal.en.md",
+        "visual/index.html",
+        "visual/assets/v4_2-agent_delivery_index.json"
       ],
-      "formula": "count(AI pilgrimage/honor-display nodes)",
+      "formula": "count(H-01..H-04 conceptual interpretation/honour-display nodes in proposal.md#13.5 and proposal.en.md#13.5; not existing heritage or official awards)",
       "confidence": "medium",
       "assumptions": [
         "A-PROVISIONAL-BOUNDARY-001"
