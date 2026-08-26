@@ -17,8 +17,8 @@
 }
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
-/* Installed system CJK families only; no font file is embedded or redistributed. */
-body { margin: 0; color: var(--ink); background: var(--paper); font-family: "Noto Sans SC", "Noto Sans CJK SC", "Source Han Sans SC", "Microsoft YaHei UI", "Microsoft YaHei", "PingFang SC", "DengXian", "SimHei", "SimSun", sans-serif; line-height: 1.55; }
+/* OFL-licensed local subset first, then system CJK fallbacks. */
+body { margin: 0; color: var(--ink); background: var(--paper); font-family: "Noonline CJK Subset", "Noto Sans SC", "Noto Sans CJK SC", "Source Han Sans SC", "Microsoft YaHei UI", "Microsoft YaHei", "PingFang SC", "DengXian", "SimHei", "SimSun", sans-serif; line-height: 1.55; }
 a { color: inherit; }
 .skip { position: absolute; left: -999px; top: 0; background: var(--white); padding: 10px; z-index: 20; }
 .skip:focus { left: 12px; }

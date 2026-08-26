@@ -15,7 +15,9 @@
         "9. Research → City → Feedback → Iterate",
         "10. Noonline / AI-OFF",
         "11. WP-01–06 / 可逆实施项目包",
-        "12. 证据、指标与核验 / Evidence, Metrics and Verification"
+        "12. 证据、指标与核验 / Evidence, Metrics and Verification",
+        "13.1 全球案例比较与区域协同接口 / Global precedents and regional exchange interfaces",
+        "13.2 agent.2 八要素机制矩阵 / agent.2 eight-element mechanism matrix"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson",
@@ -52,6 +54,7 @@
         "SECTION-01–04",
         "AI-ON / AI-OFF",
         "Research → City → Feedback → Iterate",
+        "AGENT2-MECH-01 / ELEM-01—08",
         "Evidence Ladder"
       ],
       "source_ids": [
@@ -64,6 +67,11 @@
         "DATA-SRC-MOHURD-CONTROL-DETAILED-PLANNING",
         "DATA-SRC-MNR-LAND-USE-CLASSIFICATION-202311",
         "DATA-SRC-PROVISIONAL-BOUNDARIES-20260605",
+        "EXT-SRC-CASE-01-BARCELONA-SUPERBLOCK-20210202",
+        "EXT-SRC-CASE-02-PUNGGOL-DIGITAL-DISTRICT",
+        "EXT-SRC-CASE-03-SHIBUYA-PUBLIC-SIGN-20250515",
+        "EXT-SRC-CASE-04-WATERFRONT-TORONTO-DSAP-20190910",
+        "EXT-SRC-CASE-05-TESTBED-HELSINKI",
         "EXT-SRC-JINGZHANG-PARK-20230630",
         "EXT-SRC-DAZHONGSI-STATION-202605",
         "EXT-SRC-QINGHUAYUAN-STATION-20260214"
@@ -74,7 +82,8 @@
         "A-MICROCLIMATE-001",
         "A-CENSUS-SCOPE-001",
         "A-PRIVACY-001",
-        "A-SITE-EVIDENCE-LADDER-001"
+        "A-SITE-EVIDENCE-LADDER-001",
+        "A-IMPLEMENTATION-INTERFACE-001"
       ],
       "self_check_ids": [
         "DETERMINISTIC_VALIDATION",

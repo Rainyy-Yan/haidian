@@ -1,5 +1,11 @@
 # 方案迭代记录 / Iteration Changelog
 
+## v4.2 blocking repair - 2026-08-26
+
+**Review-blocker repair only.** This pass does not change design logic, metrics, geometry, SLA, nodes, scenarios, implementation commitments or evidence levels. It embeds an OFL-licensed, text-specific Noto Sans SC subset for reliable offline CJK rendering; maps `CASE-01` to `CASE-06` to auditable public or project-institution sources with explicit reuse limits; and exposes the taskbook's Land / Space / Industry / Funding / Talent / Compute / Data / Scenario interfaces as one bilingual, machine-readable mechanism matrix.
+
+**Evidence boundary unchanged.** The eight-element matrix links the existing spatial, work-package, role, phase, risk, verification and AI-OFF systems without claiming land rights, funding, appointed bodies, permits, compute agreements or confirmed cooperation. Official boundaries and field conditions remain provisional / unknown / not field verified, and AI remains unable to upgrade them.
+
 ## v4.1 - 2026-08-23
 
 **Implementation-control pass.** V4.1 does not redraw the V3 spatial system or raise any service claim. It introduces a machine-readable concept implementation-control register joining all six reversible work packages to specific spatial references, to-be-appointed concept roles, three non-financial resource bands, phase gates, field-ledger tasks, acceptance criteria, stop conditions and seven risks. Phase 0–3 now declares the proposed accountable role and resource band while retaining `not_appointed` status and an explicit no-budget/no-approval/no-land-right boundary.

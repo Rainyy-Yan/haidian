@@ -107,6 +107,7 @@
         "submissions/Rainyy-Yan/jingzhang-noonline-sla/self_check.json",
         "submissions/Rainyy-Yan/jingzhang-noonline-sla/sources.json",
         "submissions/Rainyy-Yan/jingzhang-noonline-sla/standard_matrix.json",
+        "submissions/Rainyy-Yan/jingzhang-noonline-sla/visual/assets/noonline-cjk-font.css",
         "submissions/Rainyy-Yan/jingzhang-noonline-sla/visual/assets/noonline-field-verification-ledger.json",
         "submissions/Rainyy-Yan/jingzhang-noonline-sla/visual/assets/noonline-sla-engine.js",
         "submissions/Rainyy-Yan/jingzhang-noonline-sla/visual/assets/noonline-sla-field-verification.js",
@@ -114,6 +115,7 @@
         "submissions/Rainyy-Yan/jingzhang-noonline-sla/visual/assets/noonline-sla-test-results.json",
         "submissions/Rainyy-Yan/jingzhang-noonline-sla/visual/assets/sla-engine-diagram.svg",
         "submissions/Rainyy-Yan/jingzhang-noonline-sla/visual/assets/v4-review.css",
+        "submissions/Rainyy-Yan/jingzhang-noonline-sla/visual/assets/v4_2-agent2-eight-element-mechanism-matrix.json",
         "submissions/Rainyy-Yan/jingzhang-noonline-sla/visual/assets/v4_2-agent_delivery_index.json",
         "submissions/Rainyy-Yan/jingzhang-noonline-sla/visual/assets/v4_2-bilingual_equivalence_checklist.json",
         "submissions/Rainyy-Yan/jingzhang-noonline-sla/visual/assets/v4_2-brand_identity.json",
@@ -124,7 +126,7 @@
       "ai_package_stages": {
         "submissions/Rainyy-Yan/jingzhang-noonline-sla": "formal"
       },
-      "total_bytes": 8348613,
+      "total_bytes": 8769645,
       "maintainer_bypass": false
     },
     "stderr": ""
@@ -202,7 +204,7 @@
         "proposal_format_version": "2",
         "evidence_contract": "section-anchors-plus-structured-audit",
         "proposal_reference_counts": {
-          "source": 6,
+          "source": 11,
           "standard": 2,
           "depth": 3,
           "data": 14,
