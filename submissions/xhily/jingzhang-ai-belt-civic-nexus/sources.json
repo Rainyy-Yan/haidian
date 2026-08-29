@@ -47,37 +47,61 @@
       "id": "CASE-C01",
       "url": "https://vectorinstitute.ai",
       "source_type": "official_public",
-      "usage": "C-01 Toronto–Montreal AI Corridor: Vector Institute / Mila / MaRS public sites; mechanism analogy only, no claimed official cooperation."
+      "usage": "C-01 Toronto–Montreal AI Corridor: Vector Institute / Mila / MaRS public sites; mechanism analogy only, no claimed official cooperation. [Published by: Vector Institute, Mila, MaRS Discovery District; retrieved 2026-08; claim-mapping: analogy only — no specific capability/status assertion]",
+      "published_by": "Vector Institute, Mila, MaRS Discovery District",
+      "region": "Toronto–Montreal AI Corridor (Canada)",
+      "retrieved": "2026-08",
+      "statement": "Analogy reference only. Institutional tier, compute facilities and regional mechanisms are stated per each organisation's official public materials; this proposal makes no specific capability, status, or official-cooperation assertion. Verify against primary sources before any formal claim."
     },
     {
       "id": "CASE-C02",
       "url": "https://www.pcnicl.ac.cn",
       "source_type": "official_public",
-      "usage": "C-02 Shenzhen Nanshan AI Cluster: Pengcheng Lab and public district materials; mechanism analogy only."
+      "usage": "C-02 Shenzhen Nanshan AI Cluster: Pengcheng Lab and public district materials; mechanism analogy only. [Published by: Pengcheng Laboratory, Shenzhen Nanshan District; retrieved 2026-08; claim-mapping: analogy only — no specific capability/status assertion]",
+      "published_by": "Pengcheng Laboratory, Shenzhen Nanshan District",
+      "region": "Shenzhen Nanshan AI Cluster (China)",
+      "retrieved": "2026-08",
+      "statement": "Analogy reference only. Institutional tier, compute facilities and regional mechanisms are stated per each organisation's official public materials; this proposal makes no specific capability, status, or official-cooperation assertion. Verify against primary sources before any formal claim."
     },
     {
       "id": "CASE-C03",
       "url": "https://www.zhejianglab.com",
       "source_type": "official_public",
-      "usage": "C-03 Hangzhou City West Corridor: Zhejiang Lab and public planning materials; mechanism analogy only."
+      "usage": "C-03 Hangzhou City West Corridor: Zhejiang Lab and public planning materials; mechanism analogy only. [Published by: Zhejiang Lab, Hangzhou Future Sci-Tech City; retrieved 2026-08; claim-mapping: analogy only — no specific capability/status assertion]",
+      "published_by": "Zhejiang Lab, Hangzhou Future Sci-Tech City",
+      "region": "Hangzhou City West Sci-Tech Corridor (China)",
+      "retrieved": "2026-08",
+      "statement": "Analogy reference only. Institutional tier, compute facilities and regional mechanisms are stated per each organisation's official public materials; this proposal makes no specific capability, status, or official-cooperation assertion. Verify against primary sources before any formal claim."
     },
     {
       "id": "CASE-C04",
       "url": "https://ai.gov.sg",
       "source_type": "official_public",
-      "usage": "C-04 Singapore AI Singapore / Punggol Digital District: public national-AI-program materials; mechanism analogy only."
+      "usage": "C-04 Singapore AI Singapore / Punggol Digital District: public national-AI-program materials; mechanism analogy only. [Published by: AI Singapore, Singapore Government; retrieved 2026-08; claim-mapping: analogy only — no specific capability/status assertion]",
+      "published_by": "AI Singapore, Singapore Government",
+      "region": "AI Singapore / Punggol Digital District (Singapore)",
+      "retrieved": "2026-08",
+      "statement": "Analogy reference only. Institutional tier, compute facilities and regional mechanisms are stated per each organisation's official public materials; this proposal makes no specific capability, status, or official-cooperation assertion. Verify against primary sources before any formal claim."
     },
     {
       "id": "CASE-C05",
       "url": "https://stationf.co",
       "source_type": "official_public",
-      "usage": "C-05 Paris Station F + Île-de-France: public incubator and regional materials; mechanism analogy only."
+      "usage": "C-05 Paris Station F + Île-de-France: public incubator and regional materials; mechanism analogy only. [Published by: Station F, Île-de-France Region; retrieved 2026-08; claim-mapping: analogy only — no specific capability/status assertion]",
+      "published_by": "Station F, Île-de-France Region",
+      "region": "Paris Station F + Île-de-France ecosystem (France)",
+      "retrieved": "2026-08",
+      "statement": "Analogy reference only. Institutional tier, compute facilities and regional mechanisms are stated per each organisation's official public materials; this proposal makes no specific capability, status, or official-cooperation assertion. Verify against primary sources before any formal claim."
     },
     {
       "id": "CASE-C06",
       "url": "https://www.brainport.nl",
       "source_type": "official_public",
-      "usage": "C-06 Eindhoven Brainport / High Tech Campus: public regional-innovation materials; mechanism analogy only."
+      "usage": "C-06 Eindhoven Brainport / High Tech Campus: public regional-innovation materials; mechanism analogy only. [Published by: Brainport Eindhoven, High Tech Campus Eindhoven; retrieved 2026-08; claim-mapping: analogy only — no specific capability/status assertion]",
+      "published_by": "Brainport Eindhoven, High Tech Campus Eindhoven",
+      "region": "Eindhoven Brainport / High Tech Campus (Netherlands)",
+      "retrieved": "2026-08",
+      "statement": "Analogy reference only. Institutional tier, compute facilities and regional mechanisms are stated per each organisation's official public materials; this proposal makes no specific capability, status, or official-cooperation assertion. Verify against primary sources before any formal claim."
     }
   ]
 }

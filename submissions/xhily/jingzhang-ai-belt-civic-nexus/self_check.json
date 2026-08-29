@@ -11,7 +11,8 @@
       "errors": [],
       "warnings": [
         "submissions/xhily/jingzhang-ai-belt-civic-nexus/proposal.md: 可能涉及非公开或敏感资料; maintainer review required",
-        "submissions/xhily/jingzhang-ai-belt-civic-nexus/geometry/site_boundary.geojson: uses provisional boundary; do not treat it as an official redline or precise-area basis. Organizer data gaps do not block content scoring; recalculate when official geometry is supplied"
+        "submissions/xhily/jingzhang-ai-belt-civic-nexus/geometry/site_boundary.geojson: uses provisional boundary; do not treat it as an official redline or precise-area basis. Organizer data gaps do not block content scoring; recalculate when official geometry is supplied",
+        "submissions/xhily/jingzhang-ai-belt-civic-nexus/assets/figures/logo.en.png: byte-identical to `assets/figures/logo.png`; if the translation is still missing, replace it with a rendering in the declared language, and if the file carries no language-specific content, declare language=neutral once and share it between both versions (see docs/formal-submission-guide.md); this notice does not block review"
       ],
       "proposal_files": [
         "submissions/xhily/jingzhang-ai-belt-civic-nexus/proposal.md"
@@ -25,6 +26,8 @@
         "submissions/xhily/jingzhang-ai-belt-civic-nexus/assets/figures/key-areas.png",
         "submissions/xhily/jingzhang-ai-belt-civic-nexus/assets/figures/land-use-structure.en.png",
         "submissions/xhily/jingzhang-ai-belt-civic-nexus/assets/figures/land-use-structure.png",
+        "submissions/xhily/jingzhang-ai-belt-civic-nexus/assets/figures/logo.en.png",
+        "submissions/xhily/jingzhang-ai-belt-civic-nexus/assets/figures/logo.png",
         "submissions/xhily/jingzhang-ai-belt-civic-nexus/assets/figures/metrics-evidence.en.png",
         "submissions/xhily/jingzhang-ai-belt-civic-nexus/assets/figures/metrics-evidence.png",
         "submissions/xhily/jingzhang-ai-belt-civic-nexus/assets/figures/mobility-bluegreen.en.png",
@@ -65,7 +68,7 @@
       "ai_package_stages": {
         "submissions/xhily/jingzhang-ai-belt-civic-nexus": "formal"
       },
-      "total_bytes": 3739884,
+      "total_bytes": 3816733,
       "maintainer_bypass": false
     },
     "stderr": ""
