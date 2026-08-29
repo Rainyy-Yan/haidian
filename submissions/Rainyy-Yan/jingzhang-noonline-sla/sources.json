@@ -309,6 +309,18 @@
       "limitations": "Not a photograph, site survey, map, component catalogue, construction drawing, bill of quantities, accessibility certification, heritage record, permission, budget, procurement record, staffing record or implementation proof.",
       "prohibited_use": "Existing-condition claim, official-boundary evidence, technical specification, implementation approval, field-verification substitute or Verified-SLA promotion evidence.",
       "rights_boundary": "No external reference image, map tile, logo, trademark, real-site photograph, proprietary component catalogue or technical drawing was provided; the image remains clearly labeled as a participant-authored conceptual material study."
+    },
+    {
+      "id": "DESIGN-VISUAL-V4_8",
+      "path": "assets/media/v4_8-spatial-experience-triptych.png",
+      "source_type": "participant_authored_generative_concept_visualisation",
+      "publisher": "Rainyy-Yan / Codex",
+      "published_date": "2026-08-29",
+      "usage": "A non-site-specific triptych showing the proposed human-scale sequence of validation, civic explanation and arrival handover across the three key-area prototypes.",
+      "allowed_use": "Proposal illustration and bilingual review aid only.",
+      "limitations": "Not a photograph, site survey, map, facility inventory, construction drawing, material specification, accessibility test, heritage record, permission, budget, procurement record, staffing record or implementation proof.",
+      "prohibited_use": "Existing-condition claim, official-boundary evidence, technical specification, implementation approval, field-verification substitute or Verified-SLA promotion evidence.",
+      "rights_boundary": "No external reference image, map tile, logo, trademark or real-site photograph was provided; the image remains clearly labeled as a participant-authored conceptual spatial visualisation."
     }
   ]
 }

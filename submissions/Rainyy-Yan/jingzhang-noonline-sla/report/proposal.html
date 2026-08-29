@@ -3,7 +3,6 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="../visual/assets/noonline-cjk-font.css">
 <title>京张午间服务线 / Jing-Zhang Noonline SLA - proposal report</title>
 <style>
 :root {
@@ -17,7 +16,7 @@
 * { box-sizing: border-box; }
 body {
   margin: 0;
-  font-family: "Noonline CJK Subset", -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif;
   color: var(--ink);
   background: var(--bg);
   line-height: 1.75;
@@ -212,6 +211,10 @@ code {
 <p>V4.6 增加一张非现场、非工程的可逆构件图，补足三张人视图之间的中间尺度：轻型遮阴框架、可移动停留模块、实体信息标记、可拆安全缓冲，以及触觉与人工交接界面。它表达的是深蓝、暖木、浅色遮阴和低位缓冲如何共同服务公共清晰带、无设备路径和人工停止，而不提供尺寸、清单、性能、供货、现场位置或技术结论。<sup class="evidence evidence-source" data-evidence-kind="source" data-evidence-value="DESIGN-VISUAL-V4_6" title="来源：DESIGN-VISUAL-V4_6">来源</sup> <sup class="evidence evidence-data" data-evidence-kind="data" data-evidence-value="visual/assets/v4_6-reversible-field-kit-and-handover.json#concept_kit" title="空间数据：visual/assets/v4_6-reversible-field-kit-and-handover.json#concept_kit">空间数据</sup></p>
 <figure class="proposal-figure"><img src="../assets/media/v4_6-reversible-field-kit.png" alt="Noonline SLA 可逆构件与材料概念图：遮阴框架、移动停留、实体信息、可拆缓冲与触觉/人工交接界面，非现场、非工程表达"><figcaption>Noonline SLA 可逆构件与材料概念图：遮阴框架、移动停留、实体信息、可拆缓冲与触觉/人工交接界面，非现场、非工程表达</figcaption></figure>
 <p>同一交接包还提供五张<strong>空白</strong>模板，留给未来授权主体填写：启用前放行、公共清晰带与无设备路径核验、有限演练运行、停止/降级/改线决定，以及撤场归零结项。它们把“收到授权记录 → 人类核验 → 有边界演练 → 触发即停止 → 清场并归档”连成可审计序列；任何空白、过期、缺失或不可审计字段都维持 HOLD，不能由 AI 或这张概念图补足。<sup class="evidence evidence-data" data-evidence-kind="data" data-evidence-value="visual/assets/v4_6-reversible-field-kit-and-handover.json#blank_handover_templates" title="空间数据：visual/assets/v4_6-reversible-field-kit-and-handover.json#blank_handover_templates">空间数据</sup></p>
+<h3>V4.8 空间体验序列：让三处原型的日常公共性在同一画面中可读</h3>
+<p>V4.8 将众智园、AI 原点和大钟寺各自的人视关系合并为一张非现场、非工程的三段概念图：左侧是“验证可见但清晰带不消失”的众智园，中部是“无设备亦可进入、阅读、停留和询问”的 AI 原点，右侧是“到达后先判断、可求助、可改走”的大钟寺。深蓝构架、暖木停留、黄色实体信息和触觉连续线只是在表达同一套 Noonline SLA 的材料与信息语言；图中不含可作为现状、位置、尺寸、材料性能、服务人员、许可或实施结论的事实。<sup class="evidence evidence-source" data-evidence-kind="source" data-evidence-value="DESIGN-VISUAL-V4_8" title="来源：DESIGN-VISUAL-V4_8">来源</sup></p>
+<figure class="proposal-figure"><img src="../assets/media/v4_8-spatial-experience-triptych.png" alt="V4.8 三段空间体验概念图：众智园验证门廊、AI 原点公共知识客厅与大钟寺到达交接；非现场、非工程表达"><figcaption>V4.8 三段空间体验概念图：众智园验证门廊、AI 原点公共知识客厅与大钟寺到达交接；非现场、非工程表达</figcaption></figure>
+<p>这张图把“步行—停留—询问—AI 关闭—人工交接”的公共序列放在人的高度，而不是把品牌当作独立标识。任何构件只有在公共通行、无障碍替代、内容权利、维护、具名停止权和授权核验都成立时，才可能进入一次有限演练；未满足时保留固定信息、改走、降级或撤除。<sup class="evidence evidence-data" data-evidence-kind="data" data-evidence-value="visual/assets/v4_6-reversible-field-kit-and-handover.json#blank_handover_templates" title="空间数据：visual/assets/v4_6-reversible-field-kit-and-handover.json#blank_handover_templates">空间数据</sup></p>
 <p><strong>Target SLA</strong> 是设计希望达到的等级；<strong>Verified SLA</strong> 是当前证据可以支持的等级。当前 Engine 结果保持：SLA-A = B、SLA-B = C、SLA-C = C。缺少现场遮阴连续性、连续暴晒、真实节点位置、饮水/座椅状态、公共入口、关键过街、夏季绕行和人工服务时段中的任一关键项，都不得自动升级到 A <sup class="evidence evidence-data" data-evidence-kind="data" data-evidence-value="visual/assets/noonline-sla-report.json#routes" title="空间数据：visual/assets/noonline-sla-report.json#routes">空间数据</sup>。</p>
 <p>台账将核验分成“能否进入下一阶段”和“能否升级 SLA”两道门：前者由接口、清晰带、维护和安全记录决定，后者仍必须完成 18 项 SLA-A 必填的人类现场证据。即使局部试点可运行，任何一项关键热环境、入口、过街、无障碍或人工兜底证据为空，也只能维持当前 Verified SLA；这避免把一次活动、一个界面或一个算法评分误读为全线服务能力 <sup class="evidence evidence-metric" data-evidence-kind="metric" data-evidence-value="sla_a_mandatory_verification_task_count" title="指标：sla_a_mandatory_verification_task_count">指标</sup> <sup class="evidence evidence-data" data-evidence-kind="data" data-evidence-value="risk.json#risks" title="空间数据：risk.json#risks">空间数据</sup>。</p>
 <div class="proposal-table"><table><thead><tr><th>证据层级</th><th>本方案如何使用</th></tr></thead><tbody><tr><td>Level A — Publicly supported</td><td>公开的京张走廊、三区两翼、任务书角色、遗址公园阶段和大钟寺站站内公开服务信息可作为背景。</td></tr><tr><td>Level B — Design inference</td><td>路线、节点、空间带、工作包和 AI-OFF 机制是概念设计叠加。</td></tr><tr><td>Level C — Field verification required</td><td>入口、过街、站外无障碍、遮阴、饮水、座椅、公共性、营业状态与人工服务时段。</td></tr><tr><td>Level D — Professional study required</td><td>文保控制、交通安全、站城整合、机器人测试许可、工程、产权、审批与实施。</td></tr></tbody></table></div>

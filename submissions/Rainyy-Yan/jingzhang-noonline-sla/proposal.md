@@ -9,7 +9,7 @@ license: "COMMUNITY-DISPLAY-ONLY"
 summary: "以午间压力测试组织京张 AI 创新带的研究、公共解释与日常使用：AI 提升服务，但无手机、无屏幕或 AI 关闭时，实体公共空间与人工兜底仍然可用；六个工作包以启用、验收、停用和移交的交付门控制试点。"
 tracks: ["ai-traffic-walkability"]
 scenarios: ["ai-traffic-walkability"]
-iteration: "v4.3"
+iteration: "v4.8"
 ---
 
 # 京张午间服务线 / Jing-Zhang Noonline SLA
@@ -178,6 +178,14 @@ V4.6 增加一张非现场、非工程的可逆构件图，补足三张人视图
 ![Noonline SLA 可逆构件与材料概念图：遮阴框架、移动停留、实体信息、可拆缓冲与触觉/人工交接界面，非现场、非工程表达](assets/media/v4_6-reversible-field-kit.png)
 
 同一交接包还提供五张**空白**模板，留给未来授权主体填写：启用前放行、公共清晰带与无设备路径核验、有限演练运行、停止/降级/改线决定，以及撤场归零结项。它们把“收到授权记录 → 人类核验 → 有边界演练 → 触发即停止 → 清场并归档”连成可审计序列；任何空白、过期、缺失或不可审计字段都维持 HOLD，不能由 AI 或这张概念图补足。[data:visual/assets/v4_6-reversible-field-kit-and-handover.json#blank_handover_templates]
+
+### V4.8 空间体验序列：让三处原型的日常公共性在同一画面中可读
+
+V4.8 将众智园、AI 原点和大钟寺各自的人视关系合并为一张非现场、非工程的三段概念图：左侧是“验证可见但清晰带不消失”的众智园，中部是“无设备亦可进入、阅读、停留和询问”的 AI 原点，右侧是“到达后先判断、可求助、可改走”的大钟寺。深蓝构架、暖木停留、黄色实体信息和触觉连续线只是在表达同一套 Noonline SLA 的材料与信息语言；图中不含可作为现状、位置、尺寸、材料性能、服务人员、许可或实施结论的事实。[source:DESIGN-VISUAL-V4_8]
+
+![V4.8 三段空间体验概念图：众智园验证门廊、AI 原点公共知识客厅与大钟寺到达交接；非现场、非工程表达](assets/media/v4_8-spatial-experience-triptych.png)
+
+这张图把“步行—停留—询问—AI 关闭—人工交接”的公共序列放在人的高度，而不是把品牌当作独立标识。任何构件只有在公共通行、无障碍替代、内容权利、维护、具名停止权和授权核验都成立时，才可能进入一次有限演练；未满足时保留固定信息、改走、降级或撤除。[data:visual/assets/v4_6-reversible-field-kit-and-handover.json#blank_handover_templates]
 
 
 **Target SLA** 是设计希望达到的等级；**Verified SLA** 是当前证据可以支持的等级。当前 Engine 结果保持：SLA-A = B、SLA-B = C、SLA-C = C。缺少现场遮阴连续性、连续暴晒、真实节点位置、饮水/座椅状态、公共入口、关键过街、夏季绕行和人工服务时段中的任一关键项，都不得自动升级到 A [data:visual/assets/noonline-sla-report.json#routes]。

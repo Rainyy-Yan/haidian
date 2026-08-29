@@ -1,7 +1,7 @@
 ---
 translation_of: "proposal.md"
 language: "en"
-iteration: "v4.3"
+iteration: "v4.8"
 ---
 
 # Jing-Zhang Noonline SLA
@@ -170,6 +170,14 @@ V4.6 adds one non-site-specific, non-engineering field-kit view to supply the in
 ![Noonline SLA conceptual reversible field kit: shade frame, movable stay module, physical information, removable buffer and tactile or human-handover interface; non-site-specific and non-engineering](assets/media/v4_6-reversible-field-kit.png)
 
 The same pack provides five **blank** templates for a future authorised party to complete: pre-activation release, public-clearway and no-device-path check, bounded exercise run sheet, stop/downgrade/reroute decision, and removal-to-baseline close-out. They make an auditable sequence from authorised records to human verification, bounded exercise, immediate stop and return-to-baseline. Any blank, expired, missing or unauditable field retains HOLD; neither AI nor this concept image can fill the gap.[data:visual/assets/v4_6-reversible-field-kit-and-handover.json#blank_handover_templates]
+
+### V4.8 spatial-experience sequence: make the everyday public role of the three prototypes legible in one view
+
+V4.8 brings the three eye-level relationships of Zhongzhiyuan, AI Origin and Dazhongsi together in one non-site-specific, non-engineering triptych: at left, Zhongzhiyuan makes validation visible without erasing the clearway; in the centre, AI Origin remains enterable, readable, stayable and askable without a device; at right, Dazhongsi makes arrival a moment to decide, seek help and reroute. Navy frames, warm timber, yellow physical information and tactile continuity express one Noonline SLA material and information language only. The image supplies no factual existing condition, location, dimension, material performance, staffed service, permission or implementation conclusion.[source:DESIGN-VISUAL-V4_8]
+
+![V4.8 spatial-experience triptych: Zhongzhiyuan validation porch, AI Origin civic knowledge room and Dazhongsi arrival handover; non-site-specific and non-engineering](assets/media/v4_8-spatial-experience-triptych.png)
+
+The image puts the public sequence of walking, staying, asking, AI-OFF wayfinding and human handover at eye level rather than treating the identity as a separate logo. A component may enter one bounded exercise only after public passage, accessible alternative, content rights, maintenance, named stop authority and authorised verification are present; otherwise fixed information, rerouting, downgrade or removal remain the response.[data:visual/assets/v4_6-reversible-field-kit-and-handover.json#blank_handover_templates]
 
 
 **Target SLA** is the intended design grade. **Verified SLA** is the grade current evidence can support. The Engine result remains: SLA-A = B, SLA-B = C and SLA-C = C. Missing any critical item among field-verified shade continuity, continuous exposure, real node location, water/seat state, public entry, key crossing, summer detour and human-service hours blocks promotion to A [data:visual/assets/noonline-sla-report.json#routes].

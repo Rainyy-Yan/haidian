@@ -74,6 +74,7 @@
         "submissions/Rainyy-Yan/jingzhang-noonline-sla/assets/media/v4_5-dazhongsi-concept-perspective.png",
         "submissions/Rainyy-Yan/jingzhang-noonline-sla/assets/media/v4_5-zhongzhiyuan-concept-perspective.png",
         "submissions/Rainyy-Yan/jingzhang-noonline-sla/assets/media/v4_6-reversible-field-kit.png",
+        "submissions/Rainyy-Yan/jingzhang-noonline-sla/assets/media/v4_8-spatial-experience-triptych.png",
         "submissions/Rainyy-Yan/jingzhang-noonline-sla/assets/working/previews/v4-p1-ai-origin-civic-knowledge-room.png",
         "submissions/Rainyy-Yan/jingzhang-noonline-sla/assets/working/previews/v4-p1-dazhongsi-arrival-interface.png",
         "submissions/Rainyy-Yan/jingzhang-noonline-sla/assets/working/previews/v4-p1-sections-01-04.png",
@@ -137,7 +138,7 @@
       "ai_package_stages": {
         "submissions/Rainyy-Yan/jingzhang-noonline-sla": "formal"
       },
-      "total_bytes": 19603377,
+      "total_bytes": 22416833,
       "maintainer_bypass": false
     },
     "stderr": ""
@@ -215,7 +216,7 @@
         "proposal_format_version": "2",
         "evidence_contract": "section-anchors-plus-structured-audit",
         "proposal_reference_counts": {
-          "source": 13,
+          "source": 14,
           "standard": 2,
           "depth": 3,
           "data": 24,
