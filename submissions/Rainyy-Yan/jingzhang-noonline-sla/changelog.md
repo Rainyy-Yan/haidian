@@ -1,5 +1,11 @@
 # 方案迭代记录 / Iteration Changelog
 
+## v4.9 - 2026-08-30
+
+**Review-entry and spatial-narrative refinement.** This pass brings the already submitted human-scale triptych, three-area responsibilities, six conceptual work packages and Phase 0–3 gates to the first review screen. Paired Chinese and English pages now offer aligned 30-second, 3-minute and 15-minute reading paths, so a reviewer can begin with public experience before opening the complete spatial, evidence and delivery-control material.
+
+**Evidence boundary unchanged.** The new reading order and summary panels add no site fact, metric, geometry, scenario, implementation claim, appointed role, funding, permission, land right, approval or Verified SLA. Every component, field condition and future delivery interface retains its existing concept, provisional, unknown, HOLD or professional-study status.
+
 ## v4.8.1 - 2026-08-29
 
 **Offline CJK report rendering repair.** Both required report HTML files now load the OFL-licensed, submission-local Noonline CJK subset and set it before all system fallbacks. This restores the offline CJK delivery path used by the formal-review-ready V4.7 package, keeping Chinese headings, body text, captions, navigation and the English-page Chinese return label readable when the review environment has no installed Chinese font and no network access.

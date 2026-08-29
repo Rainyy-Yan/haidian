@@ -9,12 +9,16 @@ license: "COMMUNITY-DISPLAY-ONLY"
 summary: "以午间压力测试组织京张 AI 创新带的研究、公共解释与日常使用：AI 提升服务，但无手机、无屏幕或 AI 关闭时，实体公共空间与人工兜底仍然可用；六个工作包以启用、验收、停用和移交的交付门控制试点。"
 tracks: ["ai-traffic-walkability"]
 scenarios: ["ai-traffic-walkability"]
-iteration: "v4.8"
+iteration: "v4.9"
 ---
 
 # 京张午间服务线 / Jing-Zhang Noonline SLA
 
 > **把午间当作城市压力测试：AI 可以增强一条路，但任何人都不应因为没有手机、没有屏幕或 AI 离线而失去一条可进入、可停留、可求助的公共路径。**
+
+## 快速审阅入口 / Quick Review Entry
+
+本轮只重排既有方案的阅读顺序，不新增任何事实主张。**30 秒**先看三段概念空间体验中的“步行—停留—询问—改线”；**3 分钟**再看三区如何分别承担验证、公共解释和到达后的判断；**15 分钟**最后核对 WP-01—06 与 Phase 0—3 如何在证据缺失、过期或不可审计时维持 HOLD、改线、降级或撤除。所有地点关系、构件和条件仍是概念表达或待核验事项，不构成现状、许可或实施承诺。
 
 ![总体城市空间结构：三区两翼、Level 1/2 与京张公共连接的证据边界](assets/figures/v4-figure-01-overall-urban-structure.png)
 

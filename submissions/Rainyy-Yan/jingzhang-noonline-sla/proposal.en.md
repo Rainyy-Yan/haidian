@@ -1,12 +1,16 @@
 ---
 translation_of: "proposal.md"
 language: "en"
-iteration: "v4.8"
+iteration: "v4.9"
 ---
 
 # Jing-Zhang Noonline SLA
 
 > **Treat noon as an urban stress test: AI can enhance a route, but no one should lose an enterable, stayable and helpable public path because they have no phone, no screen, or an offline AI service.**
+
+## Quick Review Entry
+
+This pass only reorders the existing proposal; it adds no factual claim. In **30 seconds**, read the three conceptual spatial-experience scenes as walking, staying, asking and rerouting. In **3 minutes**, see how the three areas respectively carry validation, civic explanation and arrival-time judgment. In **15 minutes**, check how WP-01–06 and Phase 0–3 retain HOLD, reroute, downgrade or removal whenever evidence is absent, stale or unauditable. Every depicted relation, component and condition remains conceptual or verification-dependent, not an existing condition, permit or delivery commitment.
 
 ![Overall urban structure showing the three zones, two wings, Level 1/2 and the evidence boundary of the Jing-Zhang public connection](assets/figures/v4-figure-01-overall-urban-structure.en.png)
 
