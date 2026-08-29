@@ -1,5 +1,11 @@
 # 方案迭代记录 / Iteration Changelog
 
+## v4.8.1 - 2026-08-29
+
+**Offline CJK report rendering repair.** Both required report HTML files now load the OFL-licensed, submission-local Noonline CJK subset and set it before all system fallbacks. This restores the offline CJK delivery path used by the formal-review-ready V4.7 package, keeping Chinese headings, body text, captions, navigation and the English-page Chinese return label readable when the review environment has no installed Chinese font and no network access.
+
+**Non-regression boundary.** This repair changes only report font delivery and derived integrity records. It does not alter proposal claims, geometry, metrics, scenarios, implementation commitments, permissions, funding, land rights, approvals or Verified SLA status.
+
 ## v4.8 - 2026-08-29
 
 **Human-scale spatial expression, without factual upgrades**
